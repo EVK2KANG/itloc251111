@@ -1,8 +1,8 @@
 /*
-리셋
+KAKAO 레스트 KEY
 374b064e0edaedcf794d179d43b1d7cb    
-자바
+KAKAO 자바스크립 KEY
 b36ba982b13c6496139986ed6a8b51fc    
-네이티브
+KAKAO 네이티브 KEY
 4d019898e3debd5e3215e4f25db6e508
 */
