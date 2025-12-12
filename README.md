@@ -10,4 +10,8 @@ b36ba982b13c6496139986ed6a8b51fc
 KAKAO 네이티브 KEY
 
 4d019898e3debd5e3215e4f25db6e508
+
+EXPO_PUBLIC_HONO_API_BASEURL
+
+"http://localhost:3000"
 */
